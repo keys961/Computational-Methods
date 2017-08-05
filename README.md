@@ -1,2 +1,2 @@
-# Computational-Methods
+# Computational Methods
 Codes for course "Computational Methods"
